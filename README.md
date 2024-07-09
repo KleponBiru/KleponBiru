@@ -27,12 +27,12 @@
   <tr width="500px">
     <td valign="text-top">
       <p align="center">
-        Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+        This is just a regular Pong game where player need to move the character Up and Down so the cannonball not passed the King Side. Play as the King to defend yourself.
       </p>
     </td>
     <td valign="text-top">
       <p align="center">
-        Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as                 possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more    in the future!
+        KnightGo is a Side-Scroll 2D Platformer game where you should find the way to the village, chased by a horde of monster. But watch out ! There's still many monster ahead !!
       </p>
     </td>
   </tr>
@@ -59,7 +59,7 @@
     <tr width="500px">
       <td valign="text-top">
         <p align="center">
-          Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene management, sprites, and others!
+          This is my first project using Unity Engine to create a game. Just a simple mechanism of User Interface for main menu, animation for the character, and basic component for the character.
         </p>
       </td>
   </tr>
