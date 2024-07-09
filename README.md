@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kelvin! 👋</h1>
 
-<!--
-**KleponBiru/KleponBiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">Neon Pong</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
+    </tr>
+  </thead>
+        
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+    
+![KingPongGIF](https://github.com/KleponBiru/KleponBiru/assets/159217810/c3974def-93d3-4127-9f41-e1104ec9c50a)
 
-Here are some ideas to get you started:
+  </td>
+   
+  <td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![KnightGoGIF](https://github.com/KleponBiru/KleponBiru/assets/159217810/bd7f9611-de76-40d7-9d59-68b3f787a1d8)
+
+
+  </td>
+  </tr>
+  
+  <tr width="500px">
+    <td valign="text-top">
+      <p align="center">
+        Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+      </p>
+    </td>
+    <td valign="text-top">
+      <p align="center">
+        Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as                 possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more    in the future!
+      </p>
+    </td>
+  </tr>
+  
+  </tbody>
+</table>
+
+<!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center"><a href="https://github.com/KleponBiru/GitFirstProject">My First Project</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+    
+![GitFirstProject](https://github.com/KleponBiru/KleponBiru/assets/159217810/c29f41cd-ce07-4e46-bf61-fe8a37c2821f)
+
+
+  </td>
+  </tr>
+    <tr width="500px">
+      <td valign="text-top">
+        <p align="center">
+          Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene management, sprites, and others!
+        </p>
+      </td>
+  </tr>
+  
+
+  </tbody>
+</table>
