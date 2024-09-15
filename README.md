@@ -11,7 +11,7 @@ Hi, My name is Kelvin, a newbie game designer and student at Bina Nusantara Univ
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">KingPong</th>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">KnightGo!</th>
     </tr>
   </thead>
         
