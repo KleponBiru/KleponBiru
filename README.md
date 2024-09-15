@@ -10,7 +10,7 @@ Hi, My name is Kelvin, a newbie game designer and student at Bina Nusantara Univ
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">Neon Pong</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">KingPong</th>
       <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
     </tr>
   </thead>
