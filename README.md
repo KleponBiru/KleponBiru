@@ -10,8 +10,8 @@ Hi, My name is Kelvin, a newbie game designer and student at Bina Nusantara Univ
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">KingPong</th>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">KnightGo!</th>
+      <th width="500px" align="center"><a href="https://github.com/KleponBiru/KingPong">KingPong</th>
+      <th width="500px" align="center"><a href="https://github.com/KleponBiru/KnightGo">KnightGo!</th>
     </tr>
   </thead>
         
@@ -52,6 +52,7 @@ Hi, My name is Kelvin, a newbie game designer and student at Bina Nusantara Univ
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/KleponBiru/GitFirstProject">My First Project</th>
+      <th width="500px" align="center">Warp'er</th>
     </tr>
   </thead>
   <tbody>
@@ -59,6 +60,13 @@ Hi, My name is Kelvin, a newbie game designer and student at Bina Nusantara Univ
   <td>
     
 ![GitFirstProject](https://github.com/KleponBiru/KleponBiru/assets/159217810/c29f41cd-ce07-4e46-bf61-fe8a37c2821f)
+
+
+  </td>
+  <td>
+    
+![GitFirstProject](https://github.com/KleponBiru/KleponBiru/assets/159217810/c29f41cd-ce07-4e46-bf61-fe8a37c2821f)
+
 
 
   </td>
