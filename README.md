@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kelvin! 👋</h1>
 
 <p align="center"> 
-Hi, My name is Kelvin, a newbie game developer and student at Bina Nusantara University. I'm still learning to be a programmer using Unity. I have experience in game designing for various game projects. My goal is to become a better game programmer & designer in the future.
+Hi, My name is Kelvin, a newbie game designer and student at Bina Nusantara University. I'm still learning to be a programmer using Unity. I have experience in game designing for various game projects. My goal is to become a better game programmer & designer in the future.
 </p>
 
 <h2 align="center">🎮 My Projects</h2>
